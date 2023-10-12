@@ -13,11 +13,15 @@ Develping a perdiction model and a CNN model, amiming for > 75% accuracy.
 <img src="/Images/dataset.png" /> 
 * [Mendeley Data: ECG Images dataset of Cardiac Patients](https://data.mendeley.com/datasets/gwbz3fsgp8/2)
 <br>
+
 ## ETL Pipeline
+
 ### Extract
 Data downloaded from the Kaggle source as a CSV.
+
 ### Transform
 This project used Pandas to clean the data.
+
 ### Load
 Making Spark SQL query based on the data and create database. Then deploy the database to Python Flask powered API.
 
