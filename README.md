@@ -1,5 +1,6 @@
 # Heart Attack Prediction Risk Assessment
-<img src="/Images/heart.jpg" />
+<img src="/Images/heart.jpg" /> <br>
+
 ## Project Overview
 Heart disease or myocardial infarction remains a major global health problem that requires a deeper understanding of its precursors and possible contributing factors.
 This project is based on two aspects from our dataset:
