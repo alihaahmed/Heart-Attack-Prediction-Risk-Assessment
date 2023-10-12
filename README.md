@@ -12,7 +12,7 @@ Develping a perdiction model and a CNN model, amiming for > 75% accuracy.
 * [Kaggle: Heart Attack Risk Prediction Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset) 
 <img src="/Images/dataset.png" /> 
 * [Mendeley Data: ECG Images dataset of Cardiac Patients](https://data.mendeley.com/datasets/gwbz3fsgp8/2)
-<br>
+
 
 ## ETL Pipeline
 
