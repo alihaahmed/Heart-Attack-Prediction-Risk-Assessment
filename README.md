@@ -31,7 +31,7 @@ Making Spark SQL query based on the data and create database. Then deploy the da
 * Tableau Story
 
 ## [Classification Modeling: ECG Images GitHub](https://github.com/MahsaBakhtiari/ECG_image_classification)
-The model implemented the ViT architecture with TensorFlow's Keras library and trained it on the training set split of the ECG dataset. Since this is a classification problem I used the `SparseCategoricalCrossEntropy` loss on the 4 input classes. To avoid overfitting, the model also used weight decay within the `Adam` optimizer which improved the validation accuracy from 76% without weight decay to 86% with weight decay. This model also reduced the number of training epochs from 40 to 35 to address the overfitting problem in addition to weight decay.
+Vision Transformer is a recent image processing deep learning model introduced that heavily uses self attention instead of convolutions for processing. This model implemented the ViT architecture with TensorFlow's Keras library and trained it on the training set split of the ECG dataset. Since this is a classification problem, this model used the `SparseCategoricalCrossEntropy` loss on the 4 input classes. To avoid overfitting, modeling also used weight decay within the `Adam` optimizer which improved the validation accuracy from 76% without weight decay to 86% with weight decay. This model also reduced the number of training epochs from 40 to 35 to address the overfitting problem in addition to weight decay.
 
 <img src="/Images/ecg_model.png" />
 
