@@ -40,7 +40,7 @@ Vision Transformer is a recent image processing deep learning model introduced t
 
 <img src="/Images/ecg_model.png" />
 
-## Visualization
+## Data Analysis Visualization
 * Tableau Story
 
 
