@@ -6,7 +6,8 @@ Heart disease or myocardial infarction remains a major global health problem tha
 This project is based on two aspects from our dataset:
 * Demographic analysis covers ages and gender <br>
 * Lifestyle choices that related to heart health <br>
-Develping a perdiction model and a CNN model, amiming for > 75% accuracy.
+
+Identifying heart defects from ECG Images with Deep Learning, amiming > 75% accuracy.
 
 ## Data Source
 * [Kaggle: Heart Attack Risk Prediction Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset) 
