@@ -7,19 +7,20 @@ This project is based on two aspects from our dataset:
 * Demographic analysis covers ages and gender <br>
 * Lifestyle choices that related to heart health <br>
 
-Identifying heart defects from ECG Images with Deep Learning, amiming > 75% accuracy. <br>
-The dataset contains ECG images for the following conditons:
-* Normal Heart
-* Myocardial Infarction
-* Abnormal Heart Beat
-* Have a History of Myocardial Infraction
+Identifying heart defects from ECG Images with Deep Learning, amiming > 75% accuracy.
+
 
 ## Data Source
 * [Kaggle: Heart Attack Risk Prediction Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset) 
 <img src="/Images/dataset.png" />
 
-* [Mendeley Data: ECG Images dataset of Cardiac Patients](https://data.mendeley.com/datasets/gwbz3fsgp8/2)
+* [Mendeley Data: ECG Images dataset of Cardiac Patients](https://data.mendeley.com/datasets/gwbz3fsgp8/2) <br>
 
+The dataset contains ECG images for the following conditons:
+* Normal Heart
+* Myocardial Infarction
+* Abnormal Heart Beat
+* Have a History of Myocardial Infraction
 
 ## ETL Pipeline
 
