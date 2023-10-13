@@ -29,7 +29,7 @@ Making Spark SQL query based on the data and create database. Then deploy the da
 ## Visualization
 * Tableau Story
 
-## Modeling
+## [Classification Modeling: ECG images](https://github.com/MahsaBakhtiari/ECG_image_classification)
 
 
 ## Team Member
