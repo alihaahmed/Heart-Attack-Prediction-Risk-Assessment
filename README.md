@@ -2,12 +2,10 @@
 <img src="/Images/heart.jpg" /> <br>
 
 ## Project Overview
-Heart disease or myocardial infarction remains a major global health problem that requires a deeper understanding of its precursors and possible contributing factors.
-This project is based on two aspects from our dataset:
-* Demographic analysis covers ages and gender <br>
-* Lifestyle choices that related to heart health <br>
-
-Identifying heart defects from ECG Images with Deep Learning, amiming > 75% accuracy.
+Heart disease or myocardial infarction remains a major global health problem that requires a deeper understanding of its precursors and possible contributing factors. <br>
+This project will focus on the following: 
+* Use ECG images to identify heart defects
+* The factors would impact heart attack risk
 
 
 ## Data Source
