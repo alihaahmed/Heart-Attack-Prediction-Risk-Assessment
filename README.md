@@ -143,8 +143,7 @@ A random forest classifier was trained on the real data and achieved the same ac
 ![](https://github.com/MahsaBakhtiari/Heart_Attack-prediction/blob/main/RealData/Plots/featureimportance.png)
 
 ## Data Analysis Visualization
-* Tableau Story
-
+[Link to Tableau Story](https://public.tableau.com/app/profile/aliha.ahmed/viz/HeartAttackRiskFactorsIndicators/HeartAttackRiskFactorsIndicatorsStory )
 
 ## Team Member
 * Mahsa Bakhtiari
